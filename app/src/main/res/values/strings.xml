@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IronGYM</string>
+    <string name="title_inicio">Inicio</string>
+    <string name="title_entrenamiento">Entrenamiento</string>
+    <string name="title_perfil">Perfil</string>
+    <string name="login_title">Bienvenido a IronGYM</string>
+    <string name="login_user_hint">Usuario</string>
+    <string name="login_pass_hint">Contraseña</string>
+    <string name="login_button">Entrar</string>
+    <string name="register_button">Registrarse</string>
+    <string name="register_title">Crear Cuenta</string>
+    <string name="register_name_hint">Nombre Completo</string>
+    <string name="register_create_button">Crear Cuenta</string>
+</resources>
